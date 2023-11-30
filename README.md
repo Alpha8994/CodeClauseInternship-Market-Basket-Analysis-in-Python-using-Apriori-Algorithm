@@ -1,0 +1,2 @@
+# CodeClauseInternship-Market-Basket-Analysis-in-Python-using-Apriori-Algorithm
+Uncover valuable insights into customer purchasing behavior with this Market Basket Analysis project in Python. Implementing the Apriori Algorithm, it efficiently identifies frequent itemsets, generating association rules to optimize product placement and marketing strategies. Boost your business intelligence in just a few lines of code.
